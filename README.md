@@ -144,7 +144,6 @@ ecommerce-funnel-analysis/
 │
 ├── tableau/
 ├── images/
-├── docs/
 └── README.md
 ```
 
